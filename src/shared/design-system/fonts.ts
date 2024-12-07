@@ -13,4 +13,10 @@ export const fonts = {
       lineHeight: 28,
     },
   },
+  title: {
+    m: {
+      fontSize: 32,
+      lineHeight: 40,
+    },
+  },
 };

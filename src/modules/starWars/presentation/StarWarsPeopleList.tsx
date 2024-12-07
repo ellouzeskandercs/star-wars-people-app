@@ -74,5 +74,6 @@ const styles = StyleSheet.create({
   loadMoreButton: {
     alignSelf: "center",
     padding: theme.spacings.m,
+    color: theme.colors.text.primary,
   },
 });
