@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "pokedex",
-    "slug": "pokedex",
+    "name": "Star Wars People",
+    "slug": "star-wars-people",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
